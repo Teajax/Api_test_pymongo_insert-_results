@@ -1,0 +1,28 @@
+{
+    "success":"true",
+    "date":"2023-12-05",
+    "time":"12am",
+    "data": [
+                {   
+                    "id":101,
+                    "product_name":"abc",
+                    "price" : 234,
+                    "mrp" :250,
+                    "stock_status": "instock"
+                },
+                {
+                    "id":102,
+                    "product_name":"xyz",
+                    "price" : 1400,
+                    "mrp" : 2000,
+                    "stock_status":"oos"
+                },
+                {
+                    "id":103,
+                    "product_name":"abc",
+                    "price" : 678,
+                    "mrp" :1000,
+                    "stock_status":"instock" 
+                }
+            ]
+}
